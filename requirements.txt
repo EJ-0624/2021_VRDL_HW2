@@ -1,7 +1,6 @@
 numpy
 opencv-python >= 4.1
-# torch == 1.7
-torch == 1.10
+torch
 torchvision
 matplotlib
 pycocotools
