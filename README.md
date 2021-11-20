@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ## Training
 
 ```setup
-python train.py --device 0 --batch-size 16 --img 640 640 --data coco.yaml --cfg cfg/yolov4-pacsp.cfg --weights '' --name yolov4-pacsp
+python train.py --device 0 --batch-size 8 --img 640 640 --data hw2.yaml --cfg cfg/hw2.cfg --weights 'hw2.weights' --name hw2 --epoch 150 
 ```
 
 ## Weight for Training Model
