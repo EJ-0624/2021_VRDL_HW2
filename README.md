@@ -49,7 +49,7 @@ python train.py --device 0 --batch-size 16 --img 640 640 --data coco.yaml --cfg 
 
 You can download the file here:
 
-- [The file of weight](https://drive.google.com/file/d/1gYVfYmBDfudLZ1zQC4fEsbXMn006kosy/view?usp=sharing)
+- [The file of weight](https://drive.google.com/drive/folders/11WDVwoRr5tA3G5ZlHIsx6oMmD5iQq1gk)
 
 ## Testing
 
