@@ -49,7 +49,7 @@ python train.py --device 0 --batch-size 8 --img 640 640 --data hw2.yaml --cfg cf
 
 You can download the file here:
 
-- [The file of weight](https://drive.google.com/file/d/1gjz7FFvbhG_0QbPQnWWrZmDXy_NqmVdD/view?usp=sharing)
+- [The file of weight](https://drive.google.com/file/d/1XjnecJAsDEfUMH1m4WLVw1eWWoureL0p/view?usp=sharing)
 
 ## Testing
 
@@ -73,4 +73,4 @@ The following figure is the screenshot of my benchmark result, where inference t
 ## Google Drive link
 
 This contains all the files that need to be used.
-- [Google Drive](https://drive.google.com/drive/folders/1qCjpj7PW43pt3TibQhNta8HEryYeurDM?usp=sharing)
+- [Google Drive](https://drive.google.com/drive/folders/1ckZo4hMN0G1rwRQvtwjWLptJQ-ed_vCa?usp=sharing)
